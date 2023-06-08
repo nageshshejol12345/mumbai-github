@@ -1,0 +1,16 @@
+how to commit ,push and pull from git hub.
+---------------------------------------------
+= login to ec2 instance.
+= create one directory and go inside
+=git init
+=touch myfile.......put some data.
+=git status.
+=git add .   ......
+=git commit -m "fisrt commit"
+=git status
+=git log
+=git remote add origin<git hub url>.
+=git push -u origin master.
+         (enter username and pss).
+---------------------------------------------
+
